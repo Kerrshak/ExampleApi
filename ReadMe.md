@@ -1,5 +1,5 @@
-## Exercise:
-Set up a new endpoint on this API that fetches data from the API of your choice.
+﻿## Exercise:
+Set up a new endpoint on this API that fetches data from the API of your choice. You can do this as an additional endpoint within "CoolController" 😎
 
 BONUS: You probably used GET for your endpoint. Can you set up an endpoint that you call using POST? For simplicity you could just get it to return the data that was posted to it.
 
